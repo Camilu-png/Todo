@@ -10,7 +10,7 @@ function CreateTodoButton(props){
         <button 
         className="CreateTodoButton" 
         onClick={() => onClickButton("Aquí se abre algo")}
-        >
+        >    
             +
         </button>
     );
